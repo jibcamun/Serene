@@ -16,11 +16,15 @@ Serene features a responsive design with a light/dark theme toggle and fresh mot
 
 ## Key Highlights
 
-- ⏰ **Live Clock**
-- 📅 **Date Display**
-- 💡 **Inspirational Quotes**
-- 🌗 **Theme Toggle**
-- 📱 **Responsive Design**
+⏰ **Live Clock**
+<br>
+📅 **Date Display**
+<br>
+💡 **Inspirational Quotes**
+<br>
+🌗 **Theme Toggle**
+<br>
+📱 **Responsive Design**
 
 ---
 
@@ -34,20 +38,20 @@ It’s ideal for use as a browser start page or a personal dashboard, helping us
 ## Technologies Used
 
 <table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><br/>TypeScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>CSS3</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td>
-  </tr>
+  **React**
+  **NextJS**
+  **tailwindcss**
+  **npm**
+  **Framer Motion (motion.dev)**
 </table>
 
 ---
 
-## Ideas for Further Enhancement
-
-- Add screenshots or a demo GIF to show the UI.
-- Include setup instructions for quick start.
-- Add a "Contributing" section for community involvement.
-- List future features, e.g. customizable quotes, weather widget, or background themes.
+## Future Features
+Ablity to add tasks.
+<br>
+Play Music on the go.
+<br>
+View Time with different timezones.
 
 </div>
