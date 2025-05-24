@@ -188,7 +188,7 @@ export default function Documentation() {
           transition={{ duration: 1, type: "spring" }}
         >
           <iframe
-            src="https://ghbtns.com/github-btn.html?user=jibcamun&repo=dev&size=large&text=false"
+            src="https://ghbtns.com/github-btn.html?user=jibcamun&repo=Serene&size=large&text=false"
             width="45"
             height="30"
             title="GitHub"
@@ -200,13 +200,13 @@ export default function Documentation() {
             title="GitHub"
           ></iframe>
           <iframe
-            src="https://ghbtns.com/github-btn.html?user=jibcamun&repo=dev&type=star&size=large"
+            src="https://ghbtns.com/github-btn.html?user=jibcamun&repo=Serene&type=star&size=large"
             width="80"
             height="30"
             title="GitHub"
           ></iframe>
           <iframe
-            src="https://ghbtns.com/github-btn.html?user=jibcamun&repo=dev&type=watch&size=large&v=2"
+            src="https://ghbtns.com/github-btn.html?user=jibcamun&repo=Serene&type=watch&size=large&v=2"
             width="90"
             height="30"
             title="GitHub"
