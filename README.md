@@ -38,10 +38,14 @@ It’s ideal for use as a browser start page or a personal dashboard, helping us
 ## Technologies Used
 
   **React**
+<br>
   **NextJS**
+<br>
   **tailwindcss**
+<br>
   **npm**
-  **Framer Motion (motion.dev)**
+<br>
+  **Framer Motion**
 
 ---
 
