@@ -80,12 +80,6 @@ npm run dev
 Got a quote idea? A bug? A killer feature?
 Pull requests and issues are welcome! Let’s make Serene even better, together.
 
----
-
-## 📄 License
-MIT License.
-Free for personal and commercial use. No drama.
-
 <br><br>
 
 <div align="center"> Made with calm & code by <a href="https://github.com/jibcamun">Jibran</a> 🌱 </div>
