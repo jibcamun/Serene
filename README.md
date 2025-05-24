@@ -37,13 +37,11 @@ It’s ideal for use as a browser start page or a personal dashboard, helping us
 
 ## Technologies Used
 
-<table>
   **React**
   **NextJS**
   **tailwindcss**
   **npm**
   **Framer Motion (motion.dev)**
-</table>
 
 ---
 
